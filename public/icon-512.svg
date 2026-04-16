@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#1D6FB8"/>
+  <circle cx="256" cy="256" r="210" fill="#185FA5"/>
+  <!-- Shield -->
+  <path d="M256 90 L400 155 L400 280 C400 365 338 432 256 460 C174 432 112 365 112 280 L112 155 Z" fill="white" opacity="0.12"/>
+  <path d="M256 108 L384 168 L384 280 C384 358 328 420 256 445 C184 420 128 358 128 280 L128 168 Z" fill="white" opacity="0.1"/>
+  <path d="M256 126 L370 182 L370 280 C370 350 320 408 256 432 C192 408 142 350 142 280 L142 182 Z" fill="none" stroke="white" stroke-width="6" opacity="0.8"/>
+  <!-- Megaphone body -->
+  <rect x="168" y="220" width="50" height="72" rx="8" fill="white"/>
+  <!-- Horn -->
+  <path d="M218 218 L310 176 L310 316 L218 276 Z" fill="white"/>
+  <!-- Sound waves -->
+  <path d="M326 208 Q360 240 326 272" stroke="white" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <path d="M346 188 Q394 240 346 292" stroke="white" stroke-width="12" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <!-- Gold dot accent -->
+  <circle cx="370" cy="148" r="22" fill="#FAC775"/>
+  <path d="M370 138 L373 145 L381 145 L375 150 L377 158 L370 153 L363 158 L365 150 L359 145 L367 145 Z" fill="#633806"/>
+</svg>
